@@ -25,7 +25,6 @@ fn main() {
 	    println!("The {}th fibonacci number is {}", n, fib_num1);
 	    continue;
     }	
-
     while index <= n {
         fib_num = fib_num0 + fib_num1;
 	fib_num0 = fib_num1;
