@@ -1,3 +1,7 @@
+// Program to generate the nth fibonacci number
+// This is part of Rust book to learn Rust programming language
+// https://doc.rust-lang.org/book/
+
 use std::io;
 fn main() {
     loop {
