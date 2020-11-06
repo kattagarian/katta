@@ -1,6 +1,7 @@
 // Temperature conversor between fahrenheit and celsius
 // This is part of Rust book to learn Rust programming language
 // https://doc.rust-lang.org/book/
+
 use std::io;
 fn main () {
     loop {
