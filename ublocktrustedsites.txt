@@ -1,0 +1,16 @@
+about-scheme
+chrome-extension-scheme
+chrome-scheme
+edge-scheme
+moz-extension-scheme
+opera-scheme
+vivaldi-scheme
+wyciwyg-scheme
+duckduckgo.com
+filecrypt.cc
+www.ahnegao.com.br
+www.linuxjournal.com
+www.nationstates.net
+www.twitch.tv
+www.youtube.com
+
