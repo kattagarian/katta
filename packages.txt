@@ -1,66 +1,95 @@
-alacritty
-autoconf
-automake
-base
-bison
-chromium
-cmake
-dolphin
-dosfstools
-efibootmgr
-ffmpegthumbs
-fakeroot
-firefox
-fish
-flex
-git
-groff
-grub
-gwenview
-htop
-inkscape
-kcalc
-kde-gtk-config
-kdialog
-kvantum-theme-materia
-latte-dock
-linux-firmware
-m4
-make
-materia-gtk-theme
-materia-kde
-mpv
-neofetch
-networkmanager
-ntfs-3g
-openttd
-papirus-icon-theme
-patch
-pkgconf
-plasma-browser-integration
-plasma-desktop
-plasma-nm
-plasma-pa
-plasma5-applets-window-appmenu
-powerdevil
-sddm
-sddm-kcm
-spectacle
-stremio
-sudo
-telegram-desktop
-texinfo
-transmission-qt
-ttf-hack
-ttf-opensans
-ttf-liberation
-unrar
-unzip
-vim
-visual-studio-code-bin
-vlc
-wget
-wqy-zenhei
-xorg-server
-xorg-apps
-yay
+alacritty 0.5.0-3
+ark 20.08.3-1
+autoconf 2.69-7
+automake 1.16.2-3
+base 2-2
+bison 3.7.2-1
+chromium 86.0.4240.198-1
+cmake 3.18.4-1
+discord-canary 0.0.115-1
+dolphin 20.08.3-1
+dosfstools 4.1-3
+efibootmgr 17-2
+ffmpegthumbs 20.08.3-1
+firefox 82.0.3-1
+fish 3.1.2-2
+flex 2.6.4-3
+git 2.29.2-1
+gnu-free-fonts 20120503-8
+groff 1.22.4-3
+grub 2:2.04-8
+gwenview 20.08.3-1
+gzip 1.10-3
+htop 3.0.2-1
+inkscape 1.0.1-2
+intel-media-driver 20.4.1-1
+java-runtime-common 3-3
+java8-openjfx 8.u202-3
+jre8-openjdk 8.u265-1
+jre8-openjdk-headless 8.u265-1
+kate 20.08.3-1
+kcalc 20.08.3-1
+kde-gtk-config 5.20.3-1
+kdenlive 20.08.3-1
+kdialog 20.08.3-1
+konsole 20.08.3-1
+kvantum-qt5 0.17.0-1
+kvantum-theme-materia 20201113-1
+kwalletmanager 20.08.3-1
+latte-dock-git r4568.b230812b-1
+libva-intel-driver 2.4.1-1
+libva-mesa-driver 20.2.3-1
+linux 5.9.8.arch1-1
+linux-firmware 20201023.dae4b4c-1
+m4 1.4.18-3
+make 4.3-3
+man-db 2.9.3-1
+materia-gtk-theme 20200916-1
+materia-kde 20201113-1
+mesa-vdpau 20.2.3-1
+mpv 1:0.32.0-5
+mtools 4.0.25-1
+neofetch 7.1.0-2
+networkmanager 1.26.4-1
+noto-fonts 20190926-4
+nouveau-fw 325.15-1
+ntfs-3g 2017.3.23-5
+onlyoffice-bin 6.0.2-1
+openttd 1.10.3-1
+papirus-icon-theme 20201031-1
+patch 2.7.6-8
+pkgconf 1.7.3-1
+pkgstats 3.0.0-1
+plasma-desktop 5.20.3-1
+plasma-nm 5.20.3-1
+plasma-pa 5.20.3-1
+plasma5-applets-window-appmenu 0.6.0.r36.g57e999f-1
+powerdevil 5.20.3-1
+rustup 1.22.1-1
+sddm 0.19.0-2
+sddm-kcm 5.20.3-1
+simplescreenrecorder 0.4.2-1
+spectacle 20.08.3-1
+spotify 1:1.1.42.622-2
+stremio 4.4.107-1
+sudo 1.9.3.p1-1
+syntax-highlighting 5.76.0-1
+telegram-desktop 2.4.7-2
+texinfo 6.7-3
+transmission-qt 3.00-2
+ttf-carlito 20130920-5
+ttf-dejavu 2.37+18+g9b5d1b2f-2
+ttf-hack 3.003-3
+ttf-liberation 2.1.1-1
+ttf-opensans 1.101-2
+unrar 1:6.0.2-1
+unzip 6.0-14
+vim 8.2.1989-2
+visual-studio-code-bin 1.51.1-1
+vlc 3.0.11.1-6
+wget 1.20.3-3
+wqy-zenhei 0.9.45-8
+xf86-video-intel 1:2.99.917+913+g9236c582-1
+xorg-server 1.20.9.r21.g5c400cae1-2
+yay 10.1.1-1
+youtube-dl 2020.11.01.1-1
