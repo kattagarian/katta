@@ -15,13 +15,3 @@ filetype plugin indent on
 
 set background=dark
 
-" Plugins will be downloaded under the specified directory.
-call plug#begin(has('nvim') ? stdpath('data') . '/plugged' : '~/.vim/plugged')
-
-Plug 'preservim/nerdtree'
-Plug 'morhetz/gruvbox'
-
-"List ends here. Plugins become visible to Vim after this call.
-call plug#end()
-autocmd vimenter * ++nested colorscheme gruvbox
-
