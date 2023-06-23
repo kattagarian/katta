@@ -1,0 +1,11 @@
+#yt-dlp config file
+
+#Download best video and audio
+-f "bestvideo+bestaudio[ext=m4a]/bestvideo+bestaudio/best"
+
+#transform whatever was downloaded in mp4
+--merge-output-format mp4
+
+#save video
+-o /home/katta/Videos/downloads/%(id)s-%(epoch-3600>%d-%m-%Y)s.%(ext)s
+
